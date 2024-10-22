@@ -2,6 +2,13 @@
 
 ----
 
+## Équipe 
+| Nom           |
+|---------------|
+| Pierre-Luc Proulx  | 
+| Rata Ikrame   |  
+| Matis Ghariani | 
+
 ## Résumé
 
 ## Description
