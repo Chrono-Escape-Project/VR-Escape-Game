@@ -1,0 +1,29 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+a {
+    color: #bb86fc; /* Light purple for links */
+}
+
+header, footer {
+    background-color: #1c1c1c;
+}
+
+pre, code {
+    background-color: #2a2a2a;
+    color: #e0e0e0;
+}
+
+.button {
+    background-color: #bb86fc;
+    color: #ffffff;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+/* Add any other specific dark theme styles as needed */
