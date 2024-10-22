@@ -1,0 +1,45 @@
+<mxfile host="65bd71144e">
+    <diagram id="9Hs3LTkqAoEV6bxyy7Lp" name="Page-1">
+        <mxGraphModel dx="1102" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="410" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="51" width="200" height="149" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Commencer" style="rounded=1;whiteSpace=wrap;html=1;" parent="5" vertex="1">
+                    <mxGeometry x="39" y="16" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Controler sons" style="rounded=1;whiteSpace=wrap;html=1;" parent="5" vertex="1">
+                    <mxGeometry x="40" y="60" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Quitter le jeu" style="rounded=1;whiteSpace=wrap;html=1;" parent="5" vertex="1">
+                    <mxGeometry x="40" y="104" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Premier écran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="300" y="21" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt; Introduction du Scénario&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" parent="1" vertex="1">
+                    <mxGeometry x="272.5" y="260" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=12;endArrow=none;endFill=0;" parent="1" source="13" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Contexte du jeu et de la mission du joueur&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Explication des mécaniques de téléportation entre époques&lt;/font&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="272.5" y="300" width="275" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;li&gt;&lt;strong&gt;Sous-niveau 1 : Renaissance (15ème siècle)&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Noeud 3 : Chargement des Ressources (Renaissance)&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Chargement des textures, modèles, sons&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Noeud 4 : Exploration&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Les joueurs explorent une ville de la Renaissance&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Éléments interactifs :&lt;/strong&gt; Atelier de Léonard de Vinci, fresques, objets cachés&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Noeud 5 : Résolution d'énigmes&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Résoudre des puzzles liés aux inventions de Léonard de Vinci&lt;/li&gt;&lt;li&gt;Collecter des objets clés pour progresser&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Flèche vers :&lt;/strong&gt; Résolution complète → Portail actif&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Noeud 6 : Téléportation à l’époque suivante (1945)&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="490" width="485" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt; Renaissance&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="172.5" y="460" width="100" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
