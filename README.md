@@ -3,11 +3,11 @@
 ----
 
 ## Équipe 
-| Nom           |
-|---------------|
-| Pierre-Luc Proulx  | 
-| Rata Ikrame   |  
-| Matis Ghariani | 
+| Nom           | Username Github|
+|---------------|----------------|
+| Pierre-Luc Proulx  | Timingmerkat83|
+| Rata Ikrame   | ikramert |
+| Matis Ghariani | 2shiestymat|
 
 ## Résumé
 
