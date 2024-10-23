@@ -30,10 +30,10 @@ Renaissance : [Musique Renaissance](https://www.youtube.com/watch?v=1YiAmTYz9SE)
 ## Carte de l'Environnement Virtuel
 
 ### Renaissance (15ème siècle)
-   •	Lieu principal : Ville italienne (Zones)
-   •  Place centrale
-   •  Atelier d'art Davinci 
-   •  Église 
+    •	Lieu principal : Ville italienne (Zones)
+    •  Place centrale
+    •  Atelier d'art Davinci 
+    •  Église 
    
 #### Elements interactifs
 
