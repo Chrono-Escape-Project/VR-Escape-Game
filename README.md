@@ -54,7 +54,7 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
 ![Moodboard 1945](medias/MoodboardPL.png)
 
 ![SchémaPLGare](medias/schéma2eguerremondiale.png)
- ### Elements interactifs
+ ### Éléments interactifs
  Lieu principal: Gare de train abandonnée
  #### Main Lobby
  - Lobby de train ordinaire avec des chaises et des herbes.
@@ -65,7 +65,7 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
 #### Tunnel de train
 - En dessous de la gare: Contient une indice à l'égnigme du niveau.
 
-### Elements à créer
+### Éléments à créer
 - Je vais créer un modèle pour le train
 - Modèle pour statue qui conrespondra au puzzle du niveau
 
