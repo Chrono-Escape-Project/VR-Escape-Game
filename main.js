@@ -78,7 +78,7 @@ window.$docsify = {
         ]
     },
     css: [
-        'https://your-custom-stylesheet.css' // Link to your custom CSS
+        'https://style.css' // Link to your custom CSS
     ]
 };
 
