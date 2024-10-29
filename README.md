@@ -49,7 +49,7 @@ Atelier d'art de Leonardo Davinci
 Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire abandonnée de 1945, où un quai désert et des trains partiellement détruits regorgent d'indices cachés sous les sièges et dans les compartiments, les plongeant dans une atmosphère mystérieuse et chargée d'histoire.
 
 #### 2e Guerre mondiale, Gare de train abandonnée
-![medias/Moodboard_gare.png](medias/MoodboardPL.png)
+![Moodboard 1945](medias/MoodboardPL.png)
 
 
  ### Elements interactifs
@@ -57,7 +57,12 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
  ----
 ## Époque futuriste cyberpunk
 Dans une métropole dystopique futuriste, les joueurs explorent une rue cyberpunk étroite, illuminée de néons et de publicités holographiques, où le street art numérique révèle des indices cachés.
- ### Elements interactifs
+
+### Visuel
+
+### Sonore
+
+### Elements interactifs
 
 
 ## Schéma de Programmation pour le jeu 
