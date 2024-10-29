@@ -41,7 +41,6 @@ Atelier d'art de Leonardo Davinci
 
 Église
 - Confessionnal : Contient une note cachée ou une clé menant à un autre lieu.
-
 ----
 
 ## Époque Moderne (1945) – Ville Européenne
@@ -68,4 +67,39 @@ Dans une métropole dystopique futuriste, les joueurs explorent une rue cyberpun
 ----
 
 ## Schéma de Programmation pour le jeu 
-![Diagramme de programmation](./medias/schemaprog.drawio)
+
+```mermaid
+graph TD;
+    A[Niveau Renaissance] --> B[Énigme 1 : Statue de marbre];
+    B --> C[Interaction avec la statue];
+    C --> D[Statue pose une question];
+
+    %% Vérification de la réponse de la statue
+    D --> E[Bonne réponse ?];
+    E -- Oui --> F[Passer à l'Énigme 2 : Fresque];
+    E -- Non --> G[Réessayer ou indice supplémentaire];
+
+    %% Énigme 2 : Fresque
+    F --> H[Énigme 2 : Fresque inachevée];
+    H --> I[Interaction avec la fresque];
+    I --> J[Fresque pose une question];
+
+    %% Vérification de la réponse de la fresque
+    J --> K[Bonne réponse ?];
+    K -- Oui --> L[Passer à l'Énigme 3 : Confessionnal];
+    K -- Non --> M[Réessayer ou indice supplémentaire];
+
+    %% Énigme 3 : Confessionnal
+    L --> N[Énigme 3 : Confessionnal];
+    N --> O[Interaction avec le confessionnal];
+    O --> P[Confessionnal pose une question];
+
+    %% Vérification de la réponse du confessionnal
+    P --> Q[Bonne réponse ?];
+    Q -- Oui --> R[Trouver la clé cachée];
+    Q -- Non --> S[Réessayer ou indice supplémentaire];
+
+    %% Obtention de la clé
+    R --> T[Clé trouvée ! Accès au niveau suivant];
+    S --> N;  %% Retour à l'Énigme 3
+```
