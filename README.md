@@ -61,8 +61,12 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
  - Vieille statues couverts d'herbe.
 
 
+
 #### Tunnel de train
 - En dessous de la gare: Contient une indice à l'égnigme du niveau.
+
+### Elements à créer
+- Je vais créer un modèle pour le train 
 
 ----
 
