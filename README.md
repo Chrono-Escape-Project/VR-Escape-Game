@@ -55,6 +55,13 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
 
 ![SchémaPLGare](medias/schéma2eguerremondiale.png)
  ### Elements interactifs
+ Lieu principal: Gare de train abandonnée
+ #### Main Lobby
+ - Lobby de train ordinaire avec des chaises et des herbes.
+ - Vieille statues couvert d'herbe
+
+#### Tunnel de train
+- Contient une indice à l'égnigme du niveau.
 
 ----
 
