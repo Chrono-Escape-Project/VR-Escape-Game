@@ -29,6 +29,9 @@ Renaissance: [Musique Renaissance](https://www.youtube.com/watch?v=1YiAmTYz9SE)
 ### Carte de l'Environnement Virtuel
 ![Carte environnement virtuel](./medias/renaissance.png)
 
+#### Elements à créer
+Je vais modeliser la fresque de Davinci.
+
 #### Elements interactifs
 
 Lieu principal : Ville italienne, 15ᵉ siècle.
