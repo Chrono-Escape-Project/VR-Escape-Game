@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="ovxCPT6P1wTKiNHWO40U" name="Page-1">
+        <mxGraphModel dx="800" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="115" y="200" width="620" height="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="JOUEUR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="660" width="70" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="PLACE CENTRAL&lt;br&gt;(FONTAINE)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="370" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="115" y="200" width="160" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Atelier d'art Leonardo Davinci" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="125" y="210" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Élements interactifs&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;Ébauche de fresque&lt;/strong&gt; : Une peinture inachevée qui révèle un code ou une information importante.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=0;" vertex="1" parent="1">
+                    <mxGeometry x="136.25" y="250" width="123.75" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="DECOR" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fontSize=11;" vertex="1" parent="1">
+                    <mxGeometry x="133.75" y="420" width="120" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=0;fontSize=11;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="225" y="360" width="35" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;fontSize=11;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+                    <mxGeometry x="359" y="353.75" width="132.5" height="132.5" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
