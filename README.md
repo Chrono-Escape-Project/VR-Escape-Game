@@ -66,7 +66,8 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
 - En dessous de la gare: Contient une indice à l'égnigme du niveau.
 
 ### Elements à créer
-- Je vais créer un modèle pour le train 
+- Je vais créer un modèle pour le train
+- Modèle pour statue qui conrespondra au puzzle du niveau
 
 ----
 
