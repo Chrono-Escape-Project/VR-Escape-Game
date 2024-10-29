@@ -45,6 +45,8 @@ La Renaissance transporte les joueurs dans une ville italienne du 15ᵉ siècle,
 
     •	Lieu principal: Gare ferroviaire abandonee
     •	Un quai désert avec des trains partiellement détruits. Les joueurs doivent explorer les wagons pour trouver des indices cachés sous les   sièges ou dans les compartiments.
+
+![schéma1945](medias/schéma1945)
  ### Elements interactifs
 
    - Énigme de la fresque : Les joueurs doivent résoudre une énigme en utilisant des indices cachés dans une fresque peinte dans l'atelier de Léonard de Vinci.
