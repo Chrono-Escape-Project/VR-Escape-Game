@@ -21,7 +21,15 @@ Le projet Chrono Escape est un jeu d’évasion en réalité virtuelle où les j
 La Renaissance transporte les joueurs dans une ville italienne du 15ᵉ siècle, où ils explorent l'art de l'époque à travers des énigmes inspirées de Léonard de Vinci.
 
 ### Visuel
+#### Renaissance
 ![Projet Moodboard Renaissance](./medias/moodboardikrame.png)
+
+#### 2e Guerre mondiale, Gare de train abandonnée
+
+![medias/Moodboard_gare.png](medias/MoodboardPL.png)
+
+#### Future
+
 ### Sonore
 Renaissance: [Musique Renaissance](https://www.youtube.com/watch?v=1YiAmTYz9SE)
 
@@ -33,6 +41,7 @@ Renaissance: [Musique Renaissance](https://www.youtube.com/watch?v=1YiAmTYz9SE)
 
 Lieu principal : Ville italienne, 15ᵉ siècle.
 
+<<<<<<< HEAD
 Place Centrale
 - Fontaine historique
 - Statue de marbre : Indice caché sous la statue ou dans les gravures.
@@ -47,6 +56,8 @@ Atelier d'art de Leonardo Davinci
 ## Époque Moderne (1945) – Ville Européenne
 ### Résumé du monde
 Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire abandonnée de 1945, où un quai désert et des trains partiellement détruits regorgent d'indices cachés sous les sièges et dans les compartiments, les plongeant dans une atmosphère mystérieuse et chargée d'histoire.
+
+
  ### Elements interactifs
 
  ----
