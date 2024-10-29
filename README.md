@@ -54,6 +54,8 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
 ![Moodboard 1945](medias/MoodboardPL.png)
 
 ![SchémaPLGare](medias/schéma2eguerremondiale.png)
+- [Graphique mermaid 2e Guerre Mondiale](/schemas/1945.md)
+
  ### Éléments interactifs
  Lieu principal: Gare de train abandonnée
  #### Main Lobby
@@ -74,6 +76,8 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
 ## Époque futuriste cyberpunk
 Dans une métropole dystopique futuriste, les joueurs explorent une rue cyberpunk étroite, illuminée de néons et de publicités holographiques, où le street art numérique révèle des indices cachés.
 
+![MoodboardMatis](medias/moodboard_matis_cyberpunk.png)
+
 ### Visuel
 
 ### Sonore
@@ -88,5 +92,4 @@ Dans une métropole dystopique futuriste, les joueurs explorent une rue cyberpun
 ![Schema niveau 1](./schemas/renaissance.png)
 
 - [Graphique mermaid Renaissance](./schemas/renaissance.md)
-- [Graphique mermaid 2e Guerre Mondiale](/schemas/1945.md)
 
