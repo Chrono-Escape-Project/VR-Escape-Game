@@ -87,4 +87,6 @@ Dans une métropole dystopique futuriste, les joueurs explorent une rue cyberpun
 
 ![Schema niveau 1](./schemas/renaissance.png)
 
-[Graphique mermaid](./schemas/renaissance.md)
+- [Graphique mermaid Renaissance](./schemas/renaissance.md)
+- [Graphique mermaid 2e Guerre Mondiale](/schemas/1945.md)
+
