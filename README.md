@@ -53,7 +53,7 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
 #### 2e Guerre mondiale, Gare de train abandonnée
 ![Moodboard 1945](medias/MoodboardPL.png)
 
-
+![SchémaPLGare](medias/schéma2eguerremondiale.png)
  ### Elements interactifs
 
 ----
