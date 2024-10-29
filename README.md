@@ -1,5 +1,4 @@
 # Chrono Escape
-
 ----
 
 ## Équipe 
@@ -44,6 +43,7 @@ Atelier d'art de Leonardo Davinci
 - Confessionnal : Contient une note cachée ou une clé menant à un autre lieu.
 
 ----
+
 ## Époque Moderne (1945) – Ville Européenne
 ### Résumé du monde
 Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire abandonnée de 1945, où un quai désert et des trains partiellement détruits regorgent d'indices cachés sous les sièges et dans les compartiments, les plongeant dans une atmosphère mystérieuse et chargée d'histoire.
@@ -54,7 +54,8 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
 
  ### Elements interactifs
 
- ----
+----
+
 ## Époque futuriste cyberpunk
 Dans une métropole dystopique futuriste, les joueurs explorent une rue cyberpunk étroite, illuminée de néons et de publicités holographiques, où le street art numérique révèle des indices cachés.
 
@@ -64,6 +65,7 @@ Dans une métropole dystopique futuriste, les joueurs explorent une rue cyberpun
 
 ### Elements interactifs
 
+----
 
 ## Schéma de Programmation pour le jeu 
 ![Diagramme de programmation](./medias/schemaprog.drawio)
