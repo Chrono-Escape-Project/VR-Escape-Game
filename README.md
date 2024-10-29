@@ -55,12 +55,10 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
  ### Elements interactifs
 
  ----
-### Époque futuriste cyberpunk
-    •	Lieu principal : Métropole dystopique
-    •	Rue cyberpunk : Une rue étroite remplie de néons, de panneaux publicitaires holographiques, où les joueurs interagiront avec des éléments de street art numérique pour trouver des indices.
+## Époque futuriste cyberpunk
+Dans une métropole dystopique futuriste, les joueurs explorent une rue cyberpunk étroite, illuminée de néons et de publicités holographiques, où le street art numérique révèle des indices cachés.
  ### Elements interactifs
 
 
-## Schéma de Programmation ou d'Interactivité
-
+## Schéma de Programmation pour le jeu 
 ![Diagramme de programmation](./medias/schemaprog.drawio)
