@@ -18,6 +18,9 @@ Le projet Chrono Escape est un jeu d’évasion en réalité virtuelle où les j
 ### Visuel
 #### Renaissance
 ![Projet Moodboard Renaissance](./medias/moodboardikrame.png)
+
+#### 2e Guerre mondiale, Gare de train abandonnée
+![MoodboardPLGare](./media/Moodboardgare.png)
 ### Sonore
 
 Renaissance : [Musique Renaissance](https://www.youtube.com/watch?v=1YiAmTYz9SE)
