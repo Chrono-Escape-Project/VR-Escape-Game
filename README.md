@@ -67,17 +67,17 @@ Dans une métropole dystopique futuriste, les joueurs explorent une rue cyberpun
 ----
 
 ## Schéma de Programmation pour le jeu 
-
+### Renaissance (Premier niveau)
 ```mermaid
 graph TD;
-    A[Niveau Renaissance] --> B[Énigme 1 : Statue de marbre];
+    A[Début : Niveau Renaissance] --> B[Énigme 1 : Statue de marbre];
     B --> C[Interaction avec la statue];
     C --> D[Statue pose une question];
 
     %% Vérification de la réponse de la statue
-    D --> E[Bonne réponse ?];
+    D --> E{Bonne réponse ?};
     E -- Oui --> F[Passer à l'Énigme 2 : Fresque];
-    E -- Non --> G[Réessayer ou indice supplémentaire];
+    E -- Non --> G[Indice pour la statue de marbre];
 
     %% Énigme 2 : Fresque
     F --> H[Énigme 2 : Fresque inachevée];
@@ -85,9 +85,9 @@ graph TD;
     I --> J[Fresque pose une question];
 
     %% Vérification de la réponse de la fresque
-    J --> K[Bonne réponse ?];
+    J --> K{Bonne réponse ?};
     K -- Oui --> L[Passer à l'Énigme 3 : Confessionnal];
-    K -- Non --> M[Réessayer ou indice supplémentaire];
+    K -- Non --> M[Indice pour la fresque inachevée];
 
     %% Énigme 3 : Confessionnal
     L --> N[Énigme 3 : Confessionnal];
@@ -95,11 +95,13 @@ graph TD;
     O --> P[Confessionnal pose une question];
 
     %% Vérification de la réponse du confessionnal
-    P --> Q[Bonne réponse ?];
+    P --> Q{Bonne réponse ?};
     Q -- Oui --> R[Trouver la clé cachée];
-    Q -- Non --> S[Réessayer ou indice supplémentaire];
+    Q -- Non --> S[Indice pour le confessionnal];
 
-    %% Obtention de la clé
+    %% Obtention de la clé et boucles de retour
     R --> T[Clé trouvée ! Accès au niveau suivant];
-    S --> N;  %% Retour à l'Énigme 3
+    S --> N;
+    G --> C;
+    M --> I;
 ```
