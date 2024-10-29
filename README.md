@@ -16,6 +16,7 @@ Le projet Chrono Escape est un jeu d’évasion en réalité virtuelle où les j
 ## Moodboard
 
 ### Visuel
+#### Renaissance
 ![Projet Moodboard Renaissance](./medias/moodboardikrame.png)
 ### Sonore
 
