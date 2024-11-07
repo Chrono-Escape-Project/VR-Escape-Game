@@ -55,6 +55,7 @@ Le monde de l'époque moderne transporte les joueurs dans une gare ferroviaire a
 
 ![SchémaPLGare](medias/schéma2eguerremondiale.png)
 - [Graphique mermaid 2e Guerre Mondiale](/schemas/1945.md)
+- [Graphique 1945](/schemas/)
 
  ### Éléments interactifs
  Lieu principal: Gare de train abandonnée
